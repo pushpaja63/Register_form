@@ -1,0 +1,20 @@
+# Backend (Node)
+Backend/node_modules
+Backend/.env
+
+# Frontend (React)
+frontend/node_modules
+frontend/.env
+
+# Logs
+*.log
+
+# Build output
+frontend/build
+Backend/dist
+   
+
+
+
+ni .gitignore
+notepad .gitignore
